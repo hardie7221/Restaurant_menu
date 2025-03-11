@@ -1,0 +1,23 @@
+[
+  {
+      "category": "Starters",
+      "items": [
+          { "name": "Garlic Bread", "price": "$3.99" },
+          { "name": "Bruschetta", "price": "$4.99" }
+      ]
+  },
+  {
+      "category": "Main Course",
+      "items": [
+          { "name": "Margherita Pizza", "price": "$9.99" },
+          { "name": "Pasta Alfredo", "price": "$8.49" }
+      ]
+  },
+  {
+      "category": "Desserts",
+      "items": [
+          { "name": "Chocolate Lava Cake", "price": "$5.99" },
+          { "name": "Tiramisu", "price": "$6.49" }
+      ]
+  }
+]
