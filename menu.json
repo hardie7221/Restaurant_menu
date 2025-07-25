@@ -2,22 +2,22 @@
   {
       "category": "Starters",
       "items": [
-          { "name": "Bhuvi's Favourite Gol Gappe", "price": "₹50" },
-          { "name": "Vansh motabhai special Parantha", "price": "₹40" }
+          { "name": "Gol Gappe", "price": "₹50" },
+          { "name": "Aaloo Parantha", "price": "₹40" }
       ]
   },
   {
       "category": "Main Course",
       "items": [
-          { "name": "Aditi's Chessy Pizza", "price": "₹149" },
+          { "name": "Chessy Pizza", "price": "₹149" },
           { "name": "Pasta Alfredo", "price": "₹119" }
       ]
   },
   {
       "category": "Desserts",
       "items": [
-          { "name": "Tiddu's Siddu", "price": "₹150" },
-          { "name": "Tidu's Tiramisu", "price": "₹1290" }
+          { "name": "Siddu", "price": "₹150" },
+          { "name": "Tiramisu", "price": "₹1290" }
       ]
   }
 ]
